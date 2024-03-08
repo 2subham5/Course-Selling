@@ -1,0 +1,5 @@
+This is the backend of course selling site
+ where we have user and admin routes
+ An Admin can post new course update as well as delete it.
+ User can view all those courses and can purchase it as well.
+ 
